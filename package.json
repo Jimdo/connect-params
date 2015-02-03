@@ -1,0 +1,33 @@
+{
+  "name": "connect-params",
+  "version": "1.0.0",
+  "description": "lightweight wrapper around qs to parse parameters for connect.js and depended frameworks like Express.js",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jimdo/connect-params.git"
+  },
+  "keywords": [
+    "connectjs",
+    "connect",
+    "express",
+    "expressjs",
+    "params",
+    "parameters",
+    "qs",
+    "parseing",
+    "parse"
+  ],
+  "author": "Ole Michaelis <ole.michaelis@jimdo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jimdo/connect-params/issues"
+  },
+  "homepage": "https://github.com/Jimdo/connect-params",
+  "dependencies": {
+    "qs": "^2.3.3"
+  }
+}
