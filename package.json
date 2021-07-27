@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/Jimdo/connect-params",
   "dependencies": {
-    "qs": "^2.3.3"
+    "qs": "^6.0.4"
   }
 }
