@@ -29,5 +29,9 @@
   "homepage": "https://github.com/Jimdo/connect-params",
   "dependencies": {
     "qs": "^6.0.4"
+  },
+  "volta": {
+    "node": "24.21.0",
+    "npm": "12.1.0"
   }
 }
